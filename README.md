@@ -2,6 +2,18 @@
 
 https://nette-drum-machine.netlify.app/
 
+## API
+
+https://aws.amazon.com/s3/?ref=apilist.fun
+
+## Techonology Stack
+
+HTML
+CSS
+JavaScript
+React.js
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
